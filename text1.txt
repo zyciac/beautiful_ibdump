@@ -1,0 +1,154 @@
+Prefix: NIBArchive
+Headers: 1
+readClasses: Mystery value: 14 ( UIFont )
+readClasses: Mystery value: 7 ( UIColor )
+begin_item   0: NSObject
+	UINibTopLevelObjectsKey = @4
+	UINibObjectsKey = @25
+	UINibConnectionsKey = @26
+	UINibVisibleWindowsKey = @9
+	UINibAccessibilityConfigurationsKey = @9
+	UINibTraitStorageListsKey = @9
+	UINibKeyValuePairsKey = @9
+begin_item   1: NSString
+	NS.bytes = view
+begin_item   2: UIProxyObject
+	UIProxiedObjectIdentifier = @15
+begin_item   3: NSString
+	NS.bytes = {251, 251}
+begin_item   4: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @2
+	UINibEncoderEmptyKey = @8
+	UINibEncoderEmptyKey = @24
+begin_item   5: UIFont
+	UIFontName = @13
+	UIFontDescriptor = @28
+	UIFontPointSize = 17.0
+	UIFontTextStyleForScaling = None
+	UIFontPointSizeForScaling = 0.0
+	UIFontMaximumPointSizeAfterScaling = 0.0
+	UIFontTraits = 0
+	UISystemFont = True
+	NSName = @13
+	NSSize = 17.0
+begin_item   6: NSLayoutConstraint
+	NSFirstItem = @24
+	NSFirstAttributeV2 = 10
+	NSFirstAttribute = 10
+	NSSecondItem = @11
+	NSSecondAttributeV2 = 10
+	NSSecondAttribute = 10
+	NSConstantV2 = 0.5
+	NSShouldBeArchived = True
+	NSConstant = 0.5
+begin_item   7: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @11
+begin_item   8: UIProxyObject
+	UIProxiedObjectIdentifier = @21
+begin_item   9: NSArray
+	NSInlinedValue = True
+begin_item  10: NSString
+	NS.bytes = Hello, World!
+begin_item  11: UILabel
+	UIBounds = (0.0, 0.0, 98.0, 20.5)
+	UICenter = (187.5, 333.25)
+	UIDeepDrawRect = True
+	UIUserInteractionDisabled = True
+	UIAutoresizeSubviews = True
+	UIAutoresizingMask = 36
+	UIContentMode = 7
+	UIClipsToBounds = True
+	UIViewDoesNotTranslateAutoresizingMaskIntoConstraints = True
+	UIViewContentHuggingPriority = @3
+	UIViewSemanticContentAttribute = 0
+	UIViewLargeContentStoredProperties = None
+	UIText = @10
+	UIFont = @5
+	UITextColor = @22
+	UIShadowOffset = (0.0, -1.0)
+	UITextAlignment = 0
+	UIDisableUpdateTextColorOnTraitCollectionChange = True
+begin_item  12: UIColor
+	UIColorComponentCount = 4
+	UIRed = 0.92549020052
+	UIRed-Double = 0.9254902005
+	UIGreen = 0.235294118524
+	UIGreen-Double = 0.2352941185
+	UIBlue = 0.101960785687
+	UIBlue-Double = 0.1019607857
+	UIAlpha = 1.0
+	NSRGB = 0.925 0.235 0.102
+	NSColorSpace = 2
+begin_item  13: NSString
+	NS.bytes = .SFUI-Regular
+begin_item  14: NSMutableDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @19
+	UINibEncoderEmptyKey = @27
+	UINibEncoderEmptyKey = @29
+	UINibEncoderEmptyKey = @20
+begin_item  15: NSString
+	NS.bytes = IBFilesOwner
+begin_item  16: NSString
+	NS.bytes = darkTextColor
+begin_item  17: NSLayoutConstraint
+	NSFirstItem = @11
+	NSFirstAttributeV2 = 9
+	NSFirstAttribute = 9
+	NSSecondItem = @24
+	NSSecondAttributeV2 = 9
+	NSSecondAttribute = 9
+	NSShouldBeArchived = True
+begin_item  18: UIRuntimeOutletConnection
+	UILabel = @1
+	UISource = @2
+	UIDestination = @24
+begin_item  19: NSString
+	NS.bytes = NSCTFontUIUsageAttribute
+begin_item  20: NSNumber
+	NS.intval = 17
+begin_item  21: NSString
+	NS.bytes = IBFirstResponder
+begin_item  22: UIColor
+	UISystemColorName = @16
+	UIColorComponentCount = 2
+	UIWhite = 0.0
+	UIAlpha = 1.0
+	NSWhite = 0
+	NSColorSpace = 4
+begin_item  23: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @6
+	UINibEncoderEmptyKey = @17
+begin_item  24: UIView
+	UIBounds = (0.0, 0.0, 375.0, 667.0)
+	UICenter = (187.5, 333.5)
+	UISubviews = @7
+	UIBackgroundColor = @12
+	UIDeepDrawRect = True
+	UIOpaque = True
+	UIAutoresizeSubviews = True
+	UIAutoresizingMask = 18
+	UIViewAutolayoutConstraints = @23
+	UIViewSemanticContentAttribute = 0
+	UIViewLargeContentStoredProperties = None
+begin_item  25: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @2
+	UINibEncoderEmptyKey = @8
+	UINibEncoderEmptyKey = @24
+	UINibEncoderEmptyKey = @6
+	UINibEncoderEmptyKey = @17
+	UINibEncoderEmptyKey = @11
+begin_item  26: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @18
+begin_item  27: NSString
+	NS.bytes = CTFontRegularUsage
+begin_item  28: UIFontDescriptor
+	UIFontDescriptorAttributes = @14
+begin_item  29: NSString
+	NS.bytes = NSFontSizeAttribute
+    

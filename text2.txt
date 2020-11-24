@@ -1,0 +1,485 @@
+Prefix: NIBArchive
+Headers: 1
+readClasses: Mystery value: 8 ( UIColor )
+begin_item   0: NSObject
+	UINibTopLevelObjectsKey = @2
+	UINibObjectsKey = @85
+	UINibConnectionsKey = @54
+	UINibVisibleWindowsKey = @25
+	UINibAccessibilityConfigurationsKey = @25
+	UINibTraitStorageListsKey = @105
+	UINibKeyValuePairsKey = @25
+begin_item   1: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @38
+	UINibEncoderEmptyKey = @33
+begin_item   2: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @45
+	UINibEncoderEmptyKey = @51
+	UINibEncoderEmptyKey = @58
+	UINibEncoderEmptyKey = @7
+	UINibEncoderEmptyKey = @43
+	UINibEncoderEmptyKey = @69
+	UINibEncoderEmptyKey = @81
+	UINibEncoderEmptyKey = @108
+begin_item   3: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @42
+begin_item   4: NSString
+	NS.bytes = IBFilesOwner
+begin_item   5: NSLocalizableString
+	NS.bytes = Sessions
+	NSKey = @8
+	NSDev = @18
+begin_item   6: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @93
+	UINibEncoderEmptyKey = @103
+begin_item   7: UIProxyObject
+	UIProxiedObjectIdentifier = @59
+begin_item   8: NSString
+	NS.bytes = N9Q-EH-Qdf.title
+begin_item   9: NSLocalizableString
+	NS.bytes = Attendees
+	NSKey = @28
+	NSDev = @49
+begin_item  10: NSString
+	NS.bytes = viewController
+begin_item  11: UITabBarItem
+	UIEnabled = True
+	UITitle = @5
+	UIImage = @39
+begin_item  12: UIColor
+	UIColorComponentCount = 4
+	UIRed = 0.0
+	UIGreen = 0.407843142748
+	UIGreen-Double = 0.407843137255
+	UIBlue = 0.215686276555
+	UIBlue-Double = 0.21568627451
+	UIAlpha = 1.0
+	NSRGB = 0 0.408 0.216
+	NSColorSpace = 2
+begin_item  13: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @62
+begin_item  14: UIRuntimeOutletConnection
+	UILabel = @71
+	UISource = @38
+	UIDestination = @7
+begin_item  15: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @21
+	UINibEncoderEmptyKey = @88
+	UINibEncoderEmptyKey = @57
+	UINibEncoderEmptyKey = @52
+begin_item  16: NSString
+	NS.bytes = sceneViewController
+begin_item  17: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @93
+	UINibEncoderEmptyKey = @103
+begin_item  18: NSString
+	NS.bytes = Sessions
+begin_item  19: _UIColorAttributeTraitStorage
+	UIObject = @22
+	UIKeyPath = @83
+	UIRecords = @26
+	UINamedColor = @79
+begin_item  20: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @96
+begin_item  21: NSString
+	NS.bytes = UpstreamPlaceholder-1
+begin_item  22: UITabBar
+	UIBounds = (0.0, 0.0, 0.0, 49.0)
+	UICenter = (0.0, 24.5)
+	UIDeepDrawRect = True
+	UIOpaque = True
+	UIAutoresizeSubviews = True
+	UIAutoresizingMask = 10
+	UITintColor = @30
+	UIViewContentHuggingPriority = @91
+	UIViewInsetsLayoutMarginsFromSafeArea = 0
+	UIViewSemanticContentAttribute = 0
+	UIViewLargeContentStoredProperties = None
+	UIDelegate = @43
+	UIItems = @41
+	UIBarTintColor = @32
+	UIBarTranslucence = 1
+begin_item  23: NSMutableArray
+	NSInlinedValue = True
+begin_item  24: NSSet
+	NSInlinedValue = True
+begin_item  25: NSArray
+	NSInlinedValue = True
+begin_item  26: NSMutableArray
+	NSInlinedValue = True
+begin_item  27: NSString
+	NS.bytes = kDU-mV-HC1.title
+begin_item  28: NSString
+	NS.bytes = 1CK-51-cqb.title
+begin_item  29: NSString
+	NS.bytes = whiteColor
+begin_item  30: UIColor
+	UIDynamicCatalogName = @70
+	UIDynamicCatalogUseNibBundle = True
+	UIColorComponentCount = 4
+	UIRed = 0.949019610882
+	UIRed-Double = 0.949019607843
+	UIGreen = 0.964705884457
+	UIGreen-Double = 0.964705882353
+	UIBlue = 0.980392158031
+	UIBlue-Double = 0.980392156863
+	UIAlpha = 1.0
+	NSRGB = 0.949 0.965 0.98
+	NSColorSpace = 2
+begin_item  31: UIColor
+	UIColorComponentCount = 4
+	UIRed = 0.949019610882
+	UIRed-Double = 0.949019607843
+	UIGreen = 0.964705884457
+	UIGreen-Double = 0.964705882353
+	UIBlue = 0.980392158031
+	UIBlue-Double = 0.980392156863
+	UIAlpha = 1.0
+	NSRGB = 0.949 0.965 0.98
+	NSColorSpace = 2
+begin_item  32: UIColor
+	UIDynamicCatalogName = @101
+	UIDynamicCatalogUseNibBundle = True
+	UIColorComponentCount = 4
+	UIRed = 0.0
+	UIGreen = 0.407843142748
+	UIGreen-Double = 0.407843137255
+	UIBlue = 0.215686276555
+	UIBlue-Double = 0.21568627451
+	UIAlpha = 1.0
+	NSRGB = 0 0.408 0.216
+	NSColorSpace = 2
+begin_item  33: UINavigationController
+	UITabBarItem = @50
+	UIParentViewController = @43
+	UIChildViewControllers = @78
+	UIViewControllers = @94
+	UINavigationBar = @35
+begin_item  34: UIImageNibPlaceholder
+	UIImageWidth = 1.0
+	UIImageHeight = 1.0
+	UIResourceName = @49
+begin_item  35: UINavigationBar
+	UIBounds = (0.0, 0.0, 0.0, 44.0)
+	UICenter = (0.0, 22.0)
+	UIDeepDrawRect = True
+	UIAutoresizeSubviews = True
+	UIAutoresizingMask = 2
+	UITintColor = @103
+	UIViewContentHuggingPriority = @91
+	UIViewContentCompressionResistancePriority = @110
+	UIViewInsetsLayoutMarginsFromSafeArea = 0
+	UIViewSemanticContentAttribute = 0
+	UIViewLargeContentStoredProperties = None
+	UIBarPrefersLargeTitles = True
+	UIBarLargeTitleTextAttributes = @102
+	UIBarTintColor = @32
+	UIItems = @67
+	UIDelegate = @33
+	UITitleTextAttributes = @48
+	UIBarPosition = 2
+	UIBarTranslucence = 1
+begin_item  36: NSString
+	NS.bytes = qmg-0q-OBv-view-Avq-N2-W8p
+begin_item  37: NSString
+	NS.bytes = showViewController:sender:
+begin_item  38: UINavigationController
+	UITabBarItem = @11
+	UIParentViewController = @43
+	UIChildViewControllers = @86
+	UIViewControllers = @13
+	UINavigationBar = @65
+begin_item  39: UIImageNibPlaceholder
+	UIImageWidth = 1.0
+	UIImageHeight = 1.0
+	UIResourceName = @18
+begin_item  40: NSLocalizableString
+	NS.bytes = Sessions
+	NSKey = @55
+	NSDev = @18
+begin_item  41: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @11
+	UINibEncoderEmptyKey = @50
+begin_item  42: UINavigationItem
+	UITitle = @40
+	UILargeTitleDisplayMode = 0
+	UINavigationBar = @65
+begin_item  43: UIClassSwapper
+	UIChildViewControllers = @84
+	UITabBar = @22
+	UICustomizableViewControllers = @1
+	UIViewControllers = @68
+	UIClassName = @92
+	UIOriginalClassName = @92
+begin_item  44: UIRuntimeOutletConnection
+	UILabel = @71
+	UISource = @62
+	UIDestination = @58
+begin_item  45: UIProxyObject
+	UIProxiedObjectIdentifier = @59
+begin_item  46: UIRuntimeOutletConnection
+	UILabel = @71
+	UISource = @43
+	UIDestination = @108
+begin_item  47: _UIColorAttributeTraitStorage
+	UIObject = @35
+	UIKeyPath = @83
+	UIRecords = @74
+	UINamedColor = @97
+begin_item  48: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @93
+	UINibEncoderEmptyKey = @103
+begin_item  49: NSString
+	NS.bytes = Attendees
+begin_item  50: UITabBarItem
+	UIEnabled = True
+	UITitle = @104
+	UIImage = @34
+begin_item  51: UIProxyObject
+	UIProxiedObjectIdentifier = @59
+begin_item  52: UIStoryboardShowSegueTemplate
+	UIIdentifier = @80
+	UIDestinationViewControllerIdentifier = @56
+	UIActionName = @37
+begin_item  53: UIRuntimeOutletConnection
+	UILabel = @10
+	UISource = @96
+	UIDestination = @62
+begin_item  54: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @46
+	UINibEncoderEmptyKey = @76
+	UINibEncoderEmptyKey = @77
+	UINibEncoderEmptyKey = @14
+	UINibEncoderEmptyKey = @44
+	UINibEncoderEmptyKey = @60
+	UINibEncoderEmptyKey = @95
+	UINibEncoderEmptyKey = @53
+begin_item  55: NSString
+	NS.bytes = gW3-IA-7I1.title
+begin_item  56: NSString
+	NS.bytes = UIViewController-rrA-cD-Dy1
+begin_item  57: NSString
+	NS.bytes = UpstreamPlaceholder-2
+begin_item  58: UIProxyObject
+	UIProxiedObjectIdentifier = @59
+begin_item  59: NSString
+	NS.bytes = UIStoryboardPlaceholder
+begin_item  60: UIRuntimeOutletConnection
+	UILabel = @16
+	UISource = @69
+	UIDestination = @43
+begin_item  61: NSString
+	NS.bytes = 48d-CW-ZLg-view-FAG-Fg-yi9
+begin_item  62: UIClassSwapper
+	UINavigationItem = @42
+	UIExternalObjectsTableForViewLoading = @75
+	UINibName = @36
+	UIParentViewController = @38
+	UIStoryboardSegueTemplates = @20
+	UIClassName = @109
+	UIOriginalClassName = @66
+begin_item  63: _UICoreUICatalogColorWrapper
+	UIAssetName = @70
+	UIAssetBundleID = None
+	UIFallbackColor = @31
+begin_item  64: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @52
+begin_item  65: UINavigationBar
+	UIBounds = (0.0, 0.0, 0.0, 44.0)
+	UICenter = (0.0, 22.0)
+	UIDeepDrawRect = True
+	UIAutoresizeSubviews = True
+	UIAutoresizingMask = 2
+	UITintColor = @103
+	UIViewContentHuggingPriority = @91
+	UIViewContentCompressionResistancePriority = @110
+	UIViewInsetsLayoutMarginsFromSafeArea = 0
+	UIViewSemanticContentAttribute = 0
+	UIViewLargeContentStoredProperties = None
+	UIBarPrefersLargeTitles = True
+	UIBarLargeTitleTextAttributes = @17
+	UIBarTintColor = @32
+	UIItems = @3
+	UIDelegate = @38
+	UITitleTextAttributes = @6
+	UIBarPosition = 2
+	UIBarTranslucence = 1
+begin_item  66: NSString
+	NS.bytes = UIViewController
+begin_item  67: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @100
+begin_item  68: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @38
+	UINibEncoderEmptyKey = @33
+begin_item  69: UIProxyObject
+	UIProxiedObjectIdentifier = @4
+begin_item  70: NSString
+	NS.bytes = rw-light
+begin_item  71: NSString
+	NS.bytes = storyboard
+begin_item  72: NSMutableArray
+	NSInlinedValue = True
+begin_item  73: _UIColorAttributeTraitStorage
+	UIObject = @22
+	UIKeyPath = @106
+	UIRecords = @72
+	UINamedColor = @63
+begin_item  74: NSMutableArray
+	NSInlinedValue = True
+begin_item  75: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @21
+	UINibEncoderEmptyKey = @62
+	UINibEncoderEmptyKey = @57
+	UINibEncoderEmptyKey = @96
+begin_item  76: UIRuntimeOutletConnection
+	UILabel = @71
+	UISource = @33
+	UIDestination = @51
+begin_item  77: UIRuntimeOutletConnection
+	UILabel = @71
+	UISource = @88
+	UIDestination = @45
+begin_item  78: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @88
+begin_item  79: _UICoreUICatalogColorWrapper
+	UIAssetName = @101
+	UIAssetBundleID = None
+	UIFallbackColor = @12
+begin_item  80: NSString
+	NS.bytes = ShowAttendeeDetails
+begin_item  81: UIProxyObject
+	UIProxiedObjectIdentifier = @90
+begin_item  82: _UICoreUICatalogColorWrapper
+	UIAssetName = @101
+	UIAssetBundleID = None
+	UIFallbackColor = @12
+begin_item  83: NSString
+	NS.bytes = barTintColor
+begin_item  84: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @38
+	UINibEncoderEmptyKey = @33
+begin_item  85: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @45
+	UINibEncoderEmptyKey = @51
+	UINibEncoderEmptyKey = @58
+	UINibEncoderEmptyKey = @7
+	UINibEncoderEmptyKey = @43
+	UINibEncoderEmptyKey = @69
+	UINibEncoderEmptyKey = @81
+	UINibEncoderEmptyKey = @108
+	UINibEncoderEmptyKey = @22
+	UINibEncoderEmptyKey = @38
+	UINibEncoderEmptyKey = @33
+	UINibEncoderEmptyKey = @65
+	UINibEncoderEmptyKey = @11
+	UINibEncoderEmptyKey = @62
+	UINibEncoderEmptyKey = @35
+	UINibEncoderEmptyKey = @50
+	UINibEncoderEmptyKey = @88
+	UINibEncoderEmptyKey = @42
+	UINibEncoderEmptyKey = @96
+	UINibEncoderEmptyKey = @100
+	UINibEncoderEmptyKey = @52
+begin_item  86: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @62
+begin_item  87: NSString
+	NS.bytes = _TtC11MVCTutorial23AttendeesViewController
+begin_item  88: UIClassSwapper
+	UINavigationItem = @100
+	UIExternalObjectsTableForViewLoading = @15
+	UINibName = @61
+	UIParentViewController = @33
+	UIStoryboardSegueTemplates = @64
+	UIClassName = @87
+	UIOriginalClassName = @66
+begin_item  89: NSString
+	NS.bytes = ShowSessionDetails
+begin_item  90: NSString
+	NS.bytes = IBFirstResponder
+begin_item  91: NSString
+	NS.bytes = {250, 250}
+begin_item  92: NSString
+	NS.bytes = UITabBarController
+begin_item  93: NSString
+	NS.bytes = NSColor
+begin_item  94: NSMutableArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @88
+begin_item  95: UIRuntimeOutletConnection
+	UILabel = @10
+	UISource = @52
+	UIDestination = @88
+begin_item  96: UIStoryboardShowSegueTemplate
+	UIIdentifier = @89
+	UIDestinationViewControllerIdentifier = @56
+	UIActionName = @37
+begin_item  97: _UICoreUICatalogColorWrapper
+	UIAssetName = @101
+	UIAssetBundleID = None
+	UIFallbackColor = @12
+begin_item  98: _UIColorAttributeTraitStorage
+	UIObject = @65
+	UIKeyPath = @83
+	UIRecords = @23
+	UINamedColor = @82
+begin_item  99: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @19
+	UINibEncoderEmptyKey = @73
+	UINibEncoderEmptyKey = @98
+	UINibEncoderEmptyKey = @47
+begin_item 100: UINavigationItem
+	UITitle = @9
+	UILargeTitleDisplayMode = 0
+	UINavigationBar = @35
+begin_item 101: NSString
+	NS.bytes = rw-green
+begin_item 102: NSDictionary
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @93
+	UINibEncoderEmptyKey = @103
+begin_item 103: UIColor
+	UISystemColorName = @29
+	UIColorComponentCount = 2
+	UIWhite = 1.0
+	UIAlpha = 1.0
+	NSWhite = 1
+	NSColorSpace = 4
+begin_item 104: NSLocalizableString
+	NS.bytes = Attendees
+	NSKey = @27
+	NSDev = @49
+begin_item 105: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @107
+begin_item 106: NSString
+	NS.bytes = selectedImageTintColor
+begin_item 107: _UITraitStorageList
+	UITopLevelObject = @43
+	UITraitStorages = @99
+	UIDescendants = @24
+begin_item 108: UIProxyObject
+	UIProxiedObjectIdentifier = @59
+begin_item 109: NSString
+	NS.bytes = _TtC11MVCTutorial22SessionsViewController
+begin_item 110: NSString
+	NS.bytes = {750, 750}

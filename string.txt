@@ -1,0 +1,63 @@
+Prefix: NIBArchive
+Headers: 1
+  0: NSObject
+	UINibTopLevelObjectsKey = @6
+	UINibObjectsKey = @10
+	UINibConnectionsKey = @16
+	UINibVisibleWindowsKey = @8
+	UINibAccessibilityConfigurationsKey = @8
+	UINibTraitStorageListsKey = @8
+	UINibKeyValuePairsKey = @8
+  1: UIRuntimeOutletConnection
+	UILabel = @2
+	UISource = @15
+	UIDestination = @18
+  2: NSString
+	NS.bytes = sceneViewController
+  3: UIProxyObject
+	UIProxiedObjectIdentifier = @5
+  4: UIProxyObject
+	UIProxiedObjectIdentifier = @9
+  5: NSString
+	NS.bytes = IBFirstResponder
+  6: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @18
+	UINibEncoderEmptyKey = @15
+	UINibEncoderEmptyKey = @3
+	UINibEncoderEmptyKey = @4
+  7: NSString
+	NS.bytes = IBFilesOwner
+  8: NSArray
+	NSInlinedValue = True
+  9: NSString
+	NS.bytes = UIStoryboardPlaceholder
+ 10: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @18
+	UINibEncoderEmptyKey = @15
+	UINibEncoderEmptyKey = @3
+	UINibEncoderEmptyKey = @4
+ 11: UIRuntimeOutletConnection
+	UILabel = @17
+	UISource = @18
+	UIDestination = @4
+ 12: NSString
+	NS.bytes = UIViewController
+ 13: NSString
+	NS.bytes = 01J-lp-oVM-view-Ze5-6b-2t3
+ 14: NSDictionary
+	NSInlinedValue = True
+ 15: UIProxyObject
+	UIProxiedObjectIdentifier = @7
+ 16: NSArray
+	NSInlinedValue = True
+	UINibEncoderEmptyKey = @11
+	UINibEncoderEmptyKey = @1
+ 17: NSString
+	NS.bytes = storyboard
+ 18: UIClassSwapper
+	UIExternalObjectsTableForViewLoading = @14
+	UINibName = @13
+	UIClassName = @12
+	UIOriginalClassName = @12

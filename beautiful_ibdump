@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+./ibdump.py $1 > output
+./beautify_ibtool_output.py output
+
+rm output
