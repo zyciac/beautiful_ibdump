@@ -3,6 +3,7 @@
 # this file aims to re-arrange the output of the ibtool output
 # the original output file has reference number 
 # this script aims to eliminate all the reference numbers
+# reference number relating to circles are impossible to eliminate
 
 
 import re
